@@ -1,0 +1,19 @@
+.tela_fundo {
+    background-image:url(img/fundo.jpg)
+}
+.titulo {
+    margin-top: 35px;
+    justify-content:center;
+    display: flex;
+    color:rgb(132, 0, 255);
+    gap: 50px;
+    margin-left: 45px;
+
+}
+.link{
+    color: aqua;
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    margin-top: 35px;
+}
